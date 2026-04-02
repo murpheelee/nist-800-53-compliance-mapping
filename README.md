@@ -107,20 +107,20 @@ Key findings from the gap analysis:
 ## Compliance Dashboard Summary
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                  NIST 800-53 Compliance Overview             │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Overall Compliance Score:  ████████████░░░░  76%           │
-│                                                             │
-│  Implemented:           ██████████████████░░  187 (57.5%)   │
-│  Partially Implemented: ████████████░░░░░░░░   89 (27.4%)  │
-│  Not Implemented:       █████░░░░░░░░░░░░░░░   34 (10.5%)  │
-│  Not Applicable:        ██░░░░░░░░░░░░░░░░░░   15  (4.6%)  │
-│                                                             │
-│  Critical Gaps: 1  │  High Gaps: 3  │  Medium Gaps: 3      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────┐
+│             NIST 800-53 Compliance Overview               │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  Overall Compliance Score: ████████████░░░░  76%         │
+│                                                          │
+│  Implemented:              ██████████████████░░  57.5%   │
+│  Partially Implemented:    ████████████░░░░░░░░  27.4%   │
+│  Not Implemented:          █████░░░░░░░░░░░░░░░  10.5%   │
+│  Not Applicable:           ██░░░░░░░░░░░░░░░░░░   4.6%   │
+│                                                          │
+│  Critical Gaps: 1 | High Gaps: 3 | Medium Gaps: 3       │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
 ## Key Skills Demonstrated
